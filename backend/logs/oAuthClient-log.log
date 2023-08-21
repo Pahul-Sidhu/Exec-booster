@@ -1,0 +1,180 @@
+2023-06-23T23:27:31.184Z error: Create Token () threw an exception : {
+  "authResponse": {
+    "token": {
+      "realmId": "",
+      "token_type": "",
+      "access_token": "",
+      "refresh_token": "",
+      "expires_in": 0,
+      "x_refresh_token_expires_in": 0,
+      "id_token": "",
+      "latency": 60000,
+      "createdAt": 1687562845511
+    },
+    "response": {
+      "url": "https://oauth.platform.intuit.com/oauth2/v1/tokens/bearer",
+      "headers": {
+        "date": "Fri, 23 Jun 2023 23:27:20 GMT",
+        "content-type": "application/json;charset=utf-8",
+        "content-length": "27",
+        "connection": "close",
+        "intuit_tid": "1-64962a58-05da63386302409714cda1d7",
+        "x-spanid": "b9590039-2c0e-4941-bca7-0d8891af3e3a",
+        "x-amzn-trace-id": "Root=1-64962a58-05da63386302409714cda1d7",
+        "x-content-type-options": "nosniff",
+        "server": "envoy",
+        "cache-control": "no-cache, no-store",
+        "pragma": "no-cache",
+        "x-envoy-upstream-service-time": "3",
+        "strict-transport-security": "max-age=31536000"
+      },
+      "body": "{\"error\":\"invalid_request\"}",
+      "status": 400,
+      "statusText": "Bad Request"
+    },
+    "body": "{\"error\":\"invalid_request\"}",
+    "json": {
+      "error": "invalid_request"
+    },
+    "intuit_tid": "1-64962a58-05da63386302409714cda1d7"
+  },
+  "originalMessage": "Response has an Error",
+  "error": "invalid_request",
+  "error_description": "Bad Request",
+  "intuit_tid": "1-64962a58-05da63386302409714cda1d7"
+}
+2023-06-23T23:27:31.191Z error: Create Token () threw an exception : {
+  "authResponse": {
+    "token": {
+      "realmId": "",
+      "token_type": "",
+      "access_token": "",
+      "refresh_token": "",
+      "expires_in": 0,
+      "x_refresh_token_expires_in": 0,
+      "id_token": "",
+      "latency": 60000,
+      "createdAt": 1687562845511
+    },
+    "response": {
+      "url": "https://oauth.platform.intuit.com/oauth2/v1/tokens/bearer",
+      "headers": {
+        "date": "Fri, 23 Jun 2023 23:27:20 GMT",
+        "content-type": "application/json;charset=utf-8",
+        "content-length": "27",
+        "connection": "close",
+        "intuit_tid": "1-64962a58-2e06542103e0ca3b3f791f92",
+        "x-spanid": "22c741c1-639a-4b7f-8be9-e28a17a3cce4",
+        "x-amzn-trace-id": "Root=1-64962a58-2e06542103e0ca3b3f791f92",
+        "x-content-type-options": "nosniff",
+        "server": "envoy",
+        "cache-control": "no-cache, no-store",
+        "pragma": "no-cache",
+        "x-envoy-upstream-service-time": "2",
+        "strict-transport-security": "max-age=31536000"
+      },
+      "body": "{\"error\":\"invalid_request\"}",
+      "status": 400,
+      "statusText": "Bad Request"
+    },
+    "body": "{\"error\":\"invalid_request\"}",
+    "json": {
+      "error": "invalid_request"
+    },
+    "intuit_tid": "1-64962a58-2e06542103e0ca3b3f791f92"
+  },
+  "originalMessage": "Response has an Error",
+  "error": "invalid_request",
+  "error_description": "Bad Request",
+  "intuit_tid": "1-64962a58-2e06542103e0ca3b3f791f92"
+}
+2023-06-23T23:29:02.906Z error: Create Token () threw an exception : {
+  "authResponse": {
+    "token": {
+      "realmId": "",
+      "token_type": "",
+      "access_token": "",
+      "refresh_token": "",
+      "expires_in": 0,
+      "x_refresh_token_expires_in": 0,
+      "id_token": "",
+      "latency": 60000,
+      "createdAt": 1687562937501
+    },
+    "response": {
+      "url": "https://oauth.platform.intuit.com/oauth2/v1/tokens/bearer",
+      "headers": {
+        "date": "Fri, 23 Jun 2023 23:28:52 GMT",
+        "content-type": "application/json;charset=utf-8",
+        "content-length": "27",
+        "connection": "close",
+        "intuit_tid": "1-64962ab4-3ffecf2b172aea5a4cfc4e07",
+        "x-spanid": "d3eac9d8-86bb-4a41-af5d-b119ee9ad47a",
+        "x-amzn-trace-id": "Root=1-64962ab4-3ffecf2b172aea5a4cfc4e07",
+        "x-content-type-options": "nosniff",
+        "server": "envoy",
+        "cache-control": "no-cache, no-store",
+        "pragma": "no-cache",
+        "x-envoy-upstream-service-time": "2",
+        "strict-transport-security": "max-age=31536000"
+      },
+      "body": "{\"error\":\"invalid_request\"}",
+      "status": 400,
+      "statusText": "Bad Request"
+    },
+    "body": "{\"error\":\"invalid_request\"}",
+    "json": {
+      "error": "invalid_request"
+    },
+    "intuit_tid": "1-64962ab4-3ffecf2b172aea5a4cfc4e07"
+  },
+  "originalMessage": "Response has an Error",
+  "error": "invalid_request",
+  "error_description": "Bad Request",
+  "intuit_tid": "1-64962ab4-3ffecf2b172aea5a4cfc4e07"
+}
+2023-06-23T23:29:02.910Z error: Create Token () threw an exception : {
+  "authResponse": {
+    "token": {
+      "realmId": "",
+      "token_type": "",
+      "access_token": "",
+      "refresh_token": "",
+      "expires_in": 0,
+      "x_refresh_token_expires_in": 0,
+      "id_token": "",
+      "latency": 60000,
+      "createdAt": 1687562937501
+    },
+    "response": {
+      "url": "https://oauth.platform.intuit.com/oauth2/v1/tokens/bearer",
+      "headers": {
+        "date": "Fri, 23 Jun 2023 23:28:52 GMT",
+        "content-type": "application/json;charset=utf-8",
+        "content-length": "27",
+        "connection": "close",
+        "intuit_tid": "1-64962ab4-4abf4fb67d08bd087f37ab39",
+        "x-spanid": "448fca63-6315-4b79-a67e-a50f2a98eba5",
+        "x-amzn-trace-id": "Root=1-64962ab4-4abf4fb67d08bd087f37ab39",
+        "x-content-type-options": "nosniff",
+        "server": "envoy",
+        "cache-control": "no-cache, no-store",
+        "pragma": "no-cache",
+        "x-envoy-upstream-service-time": "4",
+        "strict-transport-security": "max-age=31536000"
+      },
+      "body": "{\"error\":\"invalid_request\"}",
+      "status": 400,
+      "statusText": "Bad Request"
+    },
+    "body": "{\"error\":\"invalid_request\"}",
+    "json": {
+      "error": "invalid_request"
+    },
+    "intuit_tid": "1-64962ab4-4abf4fb67d08bd087f37ab39"
+  },
+  "originalMessage": "Response has an Error",
+  "error": "invalid_request",
+  "error_description": "Bad Request",
+  "intuit_tid": "1-64962ab4-4abf4fb67d08bd087f37ab39"
+}
